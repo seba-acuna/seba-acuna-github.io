@@ -12,26 +12,23 @@ Entre otros.
 #### Probando **negrita** y *cursiva*, además de ***negrita y cursiva***.
 
 > **Probando citas:** 
-> > **A ver que tal:** 
-> Siempre he creído que el informático que se respeta, debe saber programar
-
-'''Lo siguiente debería verse como línea de código'''
+> > Siempre he creído que el informático que se respeta, debe saber programar
 
 ```bash
 # This is bash
-echo 1
+Hello World!
 ```
-
-```python
-# This is python
-print("Hello world")
 
 ~~Compartir no es preocuparse.~~
 
-:lemon :man :car :mango
-
-| Fruit | Emoji |
+| Fruit | Kg |
 | ----------- | ----------- |
-| Mango | :mango: |
-| Lemon | :lemon: |
+| Mango | 1KG | NO
+| Lemon | 2KG | SI
 
+`Esto es una línea de código`
+
+Lista de definiciones completa.
+: Crear repositorio
+: Crear README.md
+: Crear 

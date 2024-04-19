@@ -1,4 +1,4 @@
-# MI_PERFIL_WEB
+# MI PERFIL WEB
 
 ## Creado para probar github pages, git, github, entre otros
 

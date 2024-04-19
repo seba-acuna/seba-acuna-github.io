@@ -1,6 +1,6 @@
-## MI PERFIL WEB
+# MI_PERFIL_WEB
 
-### Creado para probar github pages, git, github, entre otros
+## Creado para probar github pages, git, github, entre otros
 
 Sitio web será desarrollado en markdown, contemplará:
 

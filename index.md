@@ -32,3 +32,6 @@ Lista de definiciones completa.
 : Crear repositorio
 : Crear README.md
 : Crear 
+
+[Segundo_sitio][Nombre_referencia]
+[blog_test]: https://seba-acuna.github.io/seba-acuna-github.io/test.md

@@ -14,8 +14,24 @@ Conocer y usar las herramientas principales.
 - Acceder a intérprete de comando shell y escribir comandos con la sintaxis correcta.
 
 - Uso de comando date.
+Probando, testing de 
+
 ```bash
 date
+sebastian@ansiblebastion:~$ date
+jue 10 jul 2025 14:31:08 UTC
+
+date +%r
+sebastian@ansiblebastion:~$ date +%r
+14:31:08
+
+date +%s
+sebastian@ansiblebastion:~$ date +%s
+1752157987
+
+date +%F
+sebastian@ansiblebastion:~$ date +%F
+2025-07-10
 
 - Crear y eliminar directorios y archivos.
 - Crear y eliminar usuarios y grupos.

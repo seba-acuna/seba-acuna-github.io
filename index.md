@@ -9,6 +9,19 @@
 
 Entre otros.
 
+## RH200
+Conocer y usar las herramientas principales.
+- Acceder a intérprete de comando shell y escribir comandos con la sintaxis correcta.
+
+- Uso de comando date.
+```bash
+date
+
+- Crear y eliminar directorios y archivos.
+- Crear y eliminar usuarios y grupos.
+- Crear y eliminar grupos de usuarios.
+- Crear y eliminar archivos de texto.
+
 #### Probando **negrita** y *cursiva*, además de ***negrita y cursiva***.
 
 > **Probando citas:** 
